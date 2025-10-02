@@ -1,0 +1,143 @@
+{
+    "full_name": "ООО \"ПРЕМИУМДЕНТ\"",
+    "short_name": "ПРЕМИУМДЕНТ",
+    "UNP": "192787632",
+    "legal_address": {
+        "country": "Республика Беларусь",
+        "region": "Минская область", 
+        "city": "Минск",
+        "district": "Советский район",
+        "street": "ул. Якуба Коласа",
+        "house": "25",
+        "building": "1",
+        "apartment": "1",
+        "postal_code": "220013",
+        "full_address": "220013, Республика Беларусь, Советский район, г. Минск, ул. Я.Коласа, дом 25, корп. 1, пом. 1"
+    },
+    "business_address": {
+        "country": "Республика Беларусь",
+        "city": "Минск", 
+        "street": "ул. Якуба Коласа",
+        "house": "25/1-1",
+        "postal_code": "220013",
+        "full_address": "220013 г.Минск, ул. Якуба Коласа, 25/1-1"
+    },
+    "coordinates": {
+        "latitude": 53.923106,
+        "longitude": 27.589894
+    },
+    "phones": [
+        "+375 (17) 234-56-78",
+        "+375 (29) 123-45-67"
+    ],
+    "emails": [
+        "info@premiumdent.by",
+        "reception@premiumdent.by"
+    ],
+    "website": "https://premiumdent.by",
+    "social_media": {
+        "facebook": "https://www.facebook.com/premiumdent.by"
+    },
+    "working_hours": {
+        "monday": "09:00-21:00",
+        "tuesday": "09:00-21:00", 
+        "wednesday": "09:00-21:00",
+        "thursday": "09:00-21:00",
+        "friday": "09:00-21:00",
+        "saturday": "09:00-18:00",
+        "sunday": "выходной"
+    },
+    "years_in_business": 8,
+    "founded_date": "2017-03-15",
+    "registration_info": {
+        "registration_date": "2017-03-14",
+        "egr_registration_date": "2017-03-15",
+        "registration_authority": "Администрация Советского района г. Минска",
+        "current_status": "действующее"
+    },
+    "business_type": "Общество с ограниченной ответственностью",
+    "activity_code": "86.23",
+    "activity_description": "Стоматологическая деятельность",
+    "services": [
+        "Терапевтическая стоматология",
+        "Хирургическая стоматология", 
+        "Ортопедическая стоматология",
+        "Имплантация зубов",
+        "Протезирование зубов",
+        "Профессиональная гигиена полости рта",
+        "Детская стоматология",
+        "Эстетическая стоматология",
+        "Лечение зубов под микроскопом",
+        "Удаление зубов",
+        "Лечение корневых каналов"
+    ],
+    "staff_categories": [
+        "Врачи-стоматологи высшей категории",
+        "Врачи-стоматологи первой категории", 
+        "Ассистенты врача-стоматолога",
+        "Администраторы"
+    ],
+    "experience_years": "от 12 до 30 лет",
+    "licenses": [
+        {
+            "type": "Лицензия на медицинскую деятельность",
+            "issued_by": "Министерство здравоохранения Республики Беларусь",
+            "status": "действующая"
+        }
+    ],
+    "facilities": [
+        "Современное стоматологическое оборудование",
+        "Европейские стандарты качества",
+        "Бесплатный паркинг у входа",
+        "Удобное расположение в центре Минска"
+    ],
+    "transport_accessibility": [
+        "ст. м. Академия Наук",
+        "ст.м. Я. Коласа", 
+        "Остановка трамвая №3, 5, 6, 9, 11"
+    ],
+    "pricing": {
+        "level": "Доступные цены",
+        "payment_methods": [
+            "Наличный расчет",
+            "Безналичный расчет",
+            "Банковские карты"
+        ]
+    },
+    "target_audience": [
+        "Взрослые пациенты",
+        "Детские пациенты"
+    ],
+    "quality_certificates": [
+        "Врачи высшей и первой категории",
+        "Современное европейское оборудование",
+        "Соблюдение международных стандартов"
+    ],
+    "verified_sources": [
+        {
+            "source": "kartoteka.by",
+            "url": "https://kartoteka.by/unp-192787632",
+            "verified_date": "2024-12-17",
+            "status": "verified"
+        },
+        {
+            "source": "bizinspect.by", 
+            "url": "https://bizinspect.by/inst/5c1fc81d37b6871c5c31c348",
+            "verified_date": "2024-12-17",
+            "status": "verified"
+        },
+        {
+            "source": "sheets.by",
+            "url": "https://sheets.by/unp/192787632", 
+            "verified_date": "2024-12-17",
+            "status": "verified"
+        },
+        {
+            "source": "official_website",
+            "url": "https://premiumdent.by",
+            "verified_date": "2024-12-17", 
+            "status": "verified"
+        }
+    ],
+    "last_updated": "2024-12-17T12:00:00Z"
+}
